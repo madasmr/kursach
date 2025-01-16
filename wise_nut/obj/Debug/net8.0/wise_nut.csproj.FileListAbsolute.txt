@@ -1,0 +1,14 @@
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\bin\Debug\net8.0\wise_nut.deps.json
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\bin\Debug\net8.0\wise_nut.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\bin\Debug\net8.0\wise_nut.pdb
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\wise_nut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\wise_nut.AssemblyInfoInputs.cache
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\wise_nut.AssemblyInfo.cs
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\wise_nut.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\wise_nut.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\refint\wise_nut.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\wise_nut.pdb
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\ref\wise_nut.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\bin\Debug\net8.0\wise_nut.runtimeconfig.json
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\wise_nut.genruntimeconfig.cache
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut\obj\Debug\net8.0\wise_nut.csproj.AssemblyReference.cache
