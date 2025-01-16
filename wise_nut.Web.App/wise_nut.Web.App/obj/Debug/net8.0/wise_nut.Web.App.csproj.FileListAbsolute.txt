@@ -1,0 +1,17 @@
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\bin\Debug\net8.0\wise_nut.Web.App.deps.json
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\bin\Debug\net8.0\wise_nut.Web.App.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\bin\Debug\net8.0\wise_nut.Web.App.pdb
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\bin\Debug\net8.0\wise_nut.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\bin\Debug\net8.0\wise_nut.pdb
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\wise_nut.Web.App.csproj.AssemblyReference.cache
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\wise_nut.Web.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\wise_nut.Web.App.AssemblyInfoInputs.cache
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\wise_nut.Web.App.AssemblyInfo.cs
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\wise_nut.Web.App.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\wise_nut.2DA820B9.Up2Date
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\wise_nut.Web.App.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\refint\wise_nut.Web.App.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\wise_nut.Web.App.pdb
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\obj\Debug\net8.0\ref\wise_nut.Web.App.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\bin\Debug\net8.0\wise_nut.Data.EF.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\wise_nut.Web.App\wise_nut.Web.App\bin\Debug\net8.0\wise_nut.Data.EF.pdb
