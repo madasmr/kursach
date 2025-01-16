@@ -1,0 +1,14 @@
+﻿@model ProductModel
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<h1>@Model.Title</h1>
+<p> <strong>@Model.Type</strong></p>
+<p><strong>Описание:</strong> @Model.Description</p>
+<p><strong>Цена:</strong> @Model.Price руб.</p>
+<form action="@Url.Action(nameof(OrderController.AddItem), "Order")" method="post">
+    <input type="hidden" name="productId" value="@Model.Id" />
+    <button class="btn btn-success" type="submit">Добавить в корзину</button>
+</form>
