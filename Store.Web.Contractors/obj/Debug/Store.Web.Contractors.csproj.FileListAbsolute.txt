@@ -1,0 +1,10 @@
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\bin\Debug\Store.Web.Contractors.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\bin\Debug\Store.Web.Contractors.pdb
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\obj\Debug\Store.Web.Contractors.csproj.AssemblyReference.cache
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\obj\Debug\Store.Web.Contractors.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\obj\Debug\Store.We.23D5790C.Up2Date
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\obj\Debug\Store.Web.Contractors.dll
+C:\Users\Alisa\Desktop\Study!!\2 курс\ОП КУРСОВАЯ\wise_nut\Store.Web.Contractors\obj\Debug\Store.Web.Contractors.pdb
