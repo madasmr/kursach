@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wise_nut", "wise_nut\wise_nut.csproj", "{88E451A5-A0AF-4BDC-9DC2-6B1472D86B58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "domain", "domain", "{8710D3A3-DB19-483B-85D3-C2DFEFC9B3EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infrastructure", "infrastructure", "{0EC42B03-CF3D-4341-BE83-84F1FBCF5371}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentation", "presentation", "{CD4A9FF6-0B43-4672-9568-28FBD021A085}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Store.Web", "Store.Web\Store.Web.csproj", "{48AE91A4-9E36-4B5D-921B-23E81CF66DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Web.Contractors", "Store.Web.Contractors\Store.Web.Contractors.csproj", "{2D6A2047-FAEE-4AAA-BCD0-E2967F7E5ABC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "plugins", "plugins", "{11B09C37-A1B7-4AAE-82DA-058B7DBA78E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.Contractors.YandexKassa", "Store.Contractors.YandexKassa\Store.Contractors.YandexKassa.csproj", "{5F6A5947-BE54-4A7C-A84D-86E5C128A9BB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2D6A2047-FAEE-4AAA-BCD0-E2967F7E5ABC} = {2D6A2047-FAEE-4AAA-BCD0-E2967F7E5ABC}
+		{88E451A5-A0AF-4BDC-9DC2-6B1472D86B58} = {88E451A5-A0AF-4BDC-9DC2-6B1472D86B58}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "application", "application", "{3103150F-6EFE-42D8-BB39-BC7715526659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wise_nut.Web.App", "wise_nut.Web.App\wise_nut.Web.App\wise_nut.Web.App.csproj", "{8B05CF9B-85C1-48B8-A51B-ED6B33140DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wise_nut.Data.EF", "wise_nut.Data.EF\wise_nut.Data.EF.csproj", "{A77906B3-6E31-4FD3-AA16-9318DEB29ED3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "regist", "regist", "{6E5B5583-9361-44C2-9F5A-CAB564727B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "registauth", "registauth\registauth.csproj", "{BE4E2F53-DD61-4DB4-8537-42D055D079EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E451A5-A0AF-4BDC-9DC2-6B1472D86B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E451A5-A0AF-4BDC-9DC2-6B1472D86B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E451A5-A0AF-4BDC-9DC2-6B1472D86B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E451A5-A0AF-4BDC-9DC2-6B1472D86B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48AE91A4-9E36-4B5D-921B-23E81CF66DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AE91A4-9E36-4B5D-921B-23E81CF66DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AE91A4-9E36-4B5D-921B-23E81CF66DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AE91A4-9E36-4B5D-921B-23E81CF66DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6A2047-FAEE-4AAA-BCD0-E2967F7E5ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6A2047-FAEE-4AAA-BCD0-E2967F7E5ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6A2047-FAEE-4AAA-BCD0-E2967F7E5ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6A2047-FAEE-4AAA-BCD0-E2967F7E5ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6A5947-BE54-4A7C-A84D-86E5C128A9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6A5947-BE54-4A7C-A84D-86E5C128A9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6A5947-BE54-4A7C-A84D-86E5C128A9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6A5947-BE54-4A7C-A84D-86E5C128A9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B05CF9B-85C1-48B8-A51B-ED6B33140DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B05CF9B-85C1-48B8-A51B-ED6B33140DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B05CF9B-85C1-48B8-A51B-ED6B33140DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B05CF9B-85C1-48B8-A51B-ED6B33140DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77906B3-6E31-4FD3-AA16-9318DEB29ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77906B3-6E31-4FD3-AA16-9318DEB29ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77906B3-6E31-4FD3-AA16-9318DEB29ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77906B3-6E31-4FD3-AA16-9318DEB29ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4E2F53-DD61-4DB4-8537-42D055D079EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4E2F53-DD61-4DB4-8537-42D055D079EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4E2F53-DD61-4DB4-8537-42D055D079EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4E2F53-DD61-4DB4-8537-42D055D079EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88E451A5-A0AF-4BDC-9DC2-6B1472D86B58} = {8710D3A3-DB19-483B-85D3-C2DFEFC9B3EC}
+		{48AE91A4-9E36-4B5D-921B-23E81CF66DEF} = {CD4A9FF6-0B43-4672-9568-28FBD021A085}
+		{2D6A2047-FAEE-4AAA-BCD0-E2967F7E5ABC} = {CD4A9FF6-0B43-4672-9568-28FBD021A085}
+		{5F6A5947-BE54-4A7C-A84D-86E5C128A9BB} = {11B09C37-A1B7-4AAE-82DA-058B7DBA78E9}
+		{8B05CF9B-85C1-48B8-A51B-ED6B33140DEE} = {3103150F-6EFE-42D8-BB39-BC7715526659}
+		{A77906B3-6E31-4FD3-AA16-9318DEB29ED3} = {0EC42B03-CF3D-4341-BE83-84F1FBCF5371}
+		{BE4E2F53-DD61-4DB4-8537-42D055D079EB} = {6E5B5583-9361-44C2-9F5A-CAB564727B9A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02341B3E-30E4-4120-B65D-4DB2B97D799B}
+	EndGlobalSection
+EndGlobal
