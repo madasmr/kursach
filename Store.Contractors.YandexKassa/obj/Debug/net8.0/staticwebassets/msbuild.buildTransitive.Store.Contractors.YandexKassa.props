@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Store.Contractors.YandexKassa.props" />
+</Project>

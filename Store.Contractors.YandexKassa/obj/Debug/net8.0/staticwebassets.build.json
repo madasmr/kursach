@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u4HxsMJFqgYP3yT7hzh98jr81WVR7wBzFPYITREn/8c=",
+  "Source": "Store.Contractors.YandexKassa",
+  "BasePath": "_content/Store.Contractors.YandexKassa",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

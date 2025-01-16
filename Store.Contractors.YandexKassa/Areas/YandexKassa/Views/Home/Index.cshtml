@@ -1,0 +1,24 @@
+﻿@using Store.Contractors.YandexKassa.Areas.YandexKassa.Controllers
+@using Store.Contractors.YandexKassa.Areas.YandexKassa.Models
+@model ExampleModel
+@{
+    ViewData["Title"] = "Яндекс.Касса";
+}
+<h1>Яндекс.Касса</h1>
+<h3>
+    Оплата банковской картой
+</h3>
+<label>Номер карты</label>
+<br />
+<input type="text" pattern="[0-9]{16}" maxlength="16"/> <br/>
+<label>Месяц/Год</label>
+<br />
+<input type="date" /> <br/>
+<label>CVC / CVV</label>
+<br />
+<input type="text" pattern="[0-9]{3}" maxlength="3" /> <br/>
+<form action="@Url.Action(nameof(HomeController.Callback), "Home", new { area = "YandexKassa" })" method="post">
+    <input type="hidden" name="orderId" value="@Model.OrderId" />
+    <input type="hidden" name="returnUri" value="@Model.ReturnUri" />
+    <button type="submit" class="btn btn-success">Оплатить</button>
+</form>
